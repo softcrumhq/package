@@ -1,5 +1,5 @@
 {
-  "name": "package",
+  "name": "@softcrumhq/package",
   "version": "1.0.0",
   "description": "TypeScript boilerplate for NPM or Github Packages",
   "main": "dist/index.js",
@@ -34,8 +34,5 @@
   "dependencies": {},
   "engines": {
     "node": ">=8"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@softcrumhq"
   }
 }
